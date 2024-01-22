@@ -6,9 +6,12 @@
 Мне нравится обрабатывать данные, искать закономерности и создавать наглядные и интерактивные визуализации данных,  в соответствии с потребностями бизнеса. 
 <br/>
 <div align="center">
-  <a href="https://linkedin.com/in/barudenko/"><img src="https://img.shields.io/badge/LinkedIn-steelblue?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" alt="LinkedIn"/></a>&nbsp;
-  <a href="mailto:barudenko@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail" alt="Gmail"/></a>&nbsp;
-  <a href="https://t.me/barudenko"><img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=blue" title="Telegram" alt="Telegram"/></a>
+  <a href="https://linkedin.com/in/barudenko/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" alt="LinkedIn"/></a>&nbsp;
+  <a href="mailto:barudenko@gmail.com"><img src="https://img.shields.io/badge/Gmail-DB4437?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail" alt="Gmail"/></a>&nbsp;
+  <a href="https://drive.google.com/file/d/1LhziWBWTzqwN79Xpk9sjgdS5F8xy6dZI/view?usp=sharing"><img src="https://img.shields.io/badge/CV-0F9D58?style=for-the-badge&logo=googledocs&logoColor=white" title="CV" alt="CV"/></a>&nbsp;
+  <a href="https://t.me/barudenko"><img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=229ED9" title="Telegram" alt="Telegram"/></a>
+  
+  
 </div>
 
 ###  Мой стек технологий:
