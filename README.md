@@ -16,21 +16,21 @@
 
 ###  Мой стек технологий:
 <div>
-  <picture><img title="Python" alt="Python" width="45" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></picture>&nbsp;
-  <picture><img title="Pandas" alt="Pandas" width="45" height="45" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/pandas/pandas-original-wordmark.svg"/></picture>&nbsp;
-  <picture><img title="NumPy" alt="NumPy" width="45" height="45" src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png"/></picture>&nbsp;
-  <picture><img title="Matplotlib" **alt="Matplotlib" width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg"/></picture>&nbsp;
-  <picture><img title="Seaborn" **alt="Seaborn" width="45" height="45" src="https://camo.githubusercontent.com/9fd2f327a5cbb4cc78b8d2ec991eba5b1fd1f9bf06a3f52904da58e6ff18361e/68747470733a2f2f736561626f726e2e7079646174612e6f72672f5f696d616765732f6c6f676f2d6d61726b2d6c6967687462672e737667"/></picture>&nbsp;
-  <picture><img title="Plotly" **alt="Plotly" width="45" height="45" src="https://camo.githubusercontent.com/98b788abb746ea12536ff8ed356b96075e66f5123d52322e598dceea6a358c30/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f706c6f745f6c792f706c6f745f6c792d6f6666696369616c2e737667"/></picture>&nbsp;
-  <picture><img title="Scipy" alt="Scipy" width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SCIPY_2.svg/1200px-SCIPY_2.svg.png"/></picture>&nbsp;
-  <picture><img title="Jupyter" alt="Jupyter" width="45" height="45" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/jupyter/jupyter-original-wordmark.svg"/></picture>&nbsp;
-  <picture><img title="PostgreSQL" alt="PostgreSQL" width="45" height="45" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg"/></picture>&nbsp;
-  <picture><img title="MySQL" alt="MySQL" width="45" height="45" src="https://www.svgrepo.com/show/303251/mysql-logo.svg"/></picture>&nbsp;
-  <picture><img title="SQLite" alt="SQLite" width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg"/></picture>&nbsp;
-  <picture><img title="SQLAlchemy" **alt="SQLAlchemy" width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/SQLAlchemy.svg/512px-SQLAlchemy.svg.png"/></picture>&nbsp;
-  <picture><img title="Tableau" **alt="Tableau" width="45" height="45" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg"/></picture>&nbsp;
-  <picture><img title="MS Excel" **alt="MS Excel" width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/587px-Microsoft_Excel_2013-2019_logo.svg.png"/></picture>&nbsp;
-  <picture><img title="Google Sheets" **alt="Google Sheets" width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/3/30/Google_Sheets_logo_%282014-2020%29.svg"/></picture>&nbsp;
+  <picture><img title="Python" alt="Python" width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></picture>&nbsp;
+  <picture><img title="Pandas" alt="Pandas" width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/pandas/pandas-original-wordmark.svg"/></picture>&nbsp;
+  <picture><img title="NumPy" alt="NumPy" width="48" height="48" src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png"/></picture>&nbsp;
+  <picture><img title="Matplotlib" **alt="Matplotlib" width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg"/></picture>&nbsp;
+  <picture><img title="Seaborn" **alt="Seaborn" width="48" height="48" src="https://camo.githubusercontent.com/9fd2f327a5cbb4cc78b8d2ec991eba5b1fd1f9bf06a3f52904da58e6ff18361e/68747470733a2f2f736561626f726e2e7079646174612e6f72672f5f696d616765732f6c6f676f2d6d61726b2d6c6967687462672e737667"/></picture>&nbsp;
+  <picture><img title="Plotly" **alt="Plotly" width="48" height="48" src="https://camo.githubusercontent.com/98b788abb746ea12536ff8ed356b96075e66f5123d52322e598dceea6a358c30/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f706c6f745f6c792f706c6f745f6c792d6f6666696369616c2e737667"/></picture>&nbsp;
+  <picture><img title="Scipy" alt="Scipy" width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SCIPY_2.svg/1200px-SCIPY_2.svg.png"/></picture>&nbsp;
+  <picture><img title="Jupyter" alt="Jupyter" width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/jupyter/jupyter-original-wordmark.svg"/></picture>&nbsp;
+  <picture><img title="PostgreSQL" alt="PostgreSQL" width="48" height="48" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg"/></picture>&nbsp;
+  <picture><img title="MySQL" alt="MySQL" width="48" height="48" src="https://www.svgrepo.com/show/303251/mysql-logo.svg"/></picture>&nbsp;
+  <picture><img title="SQLite" alt="SQLite" width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg"/></picture>&nbsp;
+  <picture><img title="SQLAlchemy" **alt="SQLAlchemy" width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/SQLAlchemy.svg/512px-SQLAlchemy.svg.png"/></picture>&nbsp;
+  <picture><img title="Tableau" **alt="Tableau" width="48" height="48" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg"/></picture>&nbsp;
+  <picture><img title="MS Excel" **alt="MS Excel" width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/587px-Microsoft_Excel_2013-2019_logo.svg.png"/></picture>&nbsp;
+  <picture><img title="Google Sheets" **alt="Google Sheets" width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/3/30/Google_Sheets_logo_%282014-2020%29.svg"/></picture>&nbsp;
 </div>
 
 ###  Мои проекты:
