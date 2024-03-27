@@ -26,10 +26,11 @@
   <picture><img title="Jupyter" alt="Jupyter" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/jupyter/jupyter-original-wordmark.svg"/></picture>&nbsp;
   <picture><img title="PostgreSQL" alt="PostgreSQL" width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg"/></picture>&nbsp;
   <picture><img title="MySQL" alt="MySQL" width="50" height="50" src="https://www.svgrepo.com/show/303251/mysql-logo.svg"/></picture>&nbsp;
+  <picture><img title="SQLite" alt="SQLite" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg"/></picture>&nbsp;
   <picture><img title="SQLAlchemy" **alt="SQLAlchemy" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/SQLAlchemy.svg/512px-SQLAlchemy.svg.png"/></picture>&nbsp;
   <picture><img title="Tableau" **alt="Tableau" width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg"/></picture>&nbsp;
   <picture><img title="MS Excel" **alt="MS Excel" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/587px-Microsoft_Excel_2013-2019_logo.svg.png"/></picture>&nbsp;
-  <picture><img title="Git" **alt="Git" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/git/git-original-wordmark.svg"/></picture>&nbsp;
+  <picture><img title="Google Sheets" **alt="Google Sheets" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/3/30/Google_Sheets_logo_%282014-2020%29.svg"/></picture>&nbsp;
 </div>
 
 ###  Мои проекты:
