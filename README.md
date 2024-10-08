@@ -20,7 +20,7 @@
   <picture><img title="Pandas" alt="Pandas" width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/pandas/pandas-original-wordmark.svg"/></picture>&nbsp;
   <picture><img title="NumPy" alt="NumPy" width="48" height="48" src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png"/></picture>&nbsp;
   <picture><img title="Matplotlib" **alt="Matplotlib" width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg"/></picture>&nbsp;
-  <picture><img title="Seaborn" **alt="Seaborn" width="48" height="48" src="https://camo.githubusercontent.com/9fd2f327a5cbb4cc78b8d2ec991eba5b1fd1f9bf06a3f52904da58e6ff18361e/68747470733a2f2f736561626f726e2e7079646174612e6f72672f5f696d616765732f6c6f676f2d6d61726b2d6c6967687462672e737667"/></picture>&nbsp;
+  <picture><img title="Seaborn" **alt="Seaborn" width="48" height="48" src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg"/></picture>&nbsp;
   <picture><img title="Plotly" **alt="Plotly" width="48" height="48" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/plot_ly_logo_icon_168902.png"/></picture>&nbsp;
   <picture><img title="Scipy" alt="Scipy" width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SCIPY_2.svg/1200px-SCIPY_2.svg.png"/></picture>&nbsp;
   <picture><img title="Jupyter" alt="Jupyter" width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/jupyter/jupyter-original-wordmark.svg"/></picture>&nbsp;
@@ -29,8 +29,9 @@
   <picture><img title="SQLite" alt="SQLite" width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg"/></picture>&nbsp;
   <picture><img title="SQLAlchemy" **alt="SQLAlchemy" width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/SQLAlchemy.svg/512px-SQLAlchemy.svg.png"/></picture>&nbsp;
   <picture><img title="Tableau" **alt="Tableau" width="48" height="48" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg"/></picture>&nbsp;
+  <picture><img title="DataLens" **alt="DataLens" width="48" height="48" src="https://i.imgur.com/0WuNcbv.png"/></picture>&nbsp;
   <picture><img title="MS Excel" **alt="MS Excel" width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/587px-Microsoft_Excel_2013-2019_logo.svg.png"/></picture>&nbsp;
-  <picture><img title="Google Sheets" **alt="Google Sheets" width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/3/30/Google_Sheets_logo_%282014-2020%29.svg"/></picture>&nbsp;
+  
 </div>
 
 ###  Мои проекты:
